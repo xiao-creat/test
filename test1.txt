@@ -1,1 +1,3 @@
 First use git to write txt file
+
+Second use git to write txt file
